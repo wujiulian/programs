@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T02:18:17.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.0" etag="5UXcSjnBiBK5KUbr6tuk" type="github"><diagram id="Wzb6xlfA5blOcGsweUND">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-29T02:31:41.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="DHBBlYj-mtJjHUnggbW6" version="13.10.0" type="github">
+  <diagram id="Wzb6xlfA5blOcGsweUND" name="1111">
+    <mxGraphModel dx="2036" dy="2965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3jeHmVnI2uejGoHNxeqR-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3jeHmVnI2uejGoHNxeqR-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_3;gradientColor=none;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-1980" width="79.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="3jeHmVnI2uejGoHNxeqR-6" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/firewall.svg;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="-1910" width="50" height="81.97" as="geometry" />
+        </mxCell>
+        <mxCell id="3jeHmVnI2uejGoHNxeqR-7" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/firewall.svg;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="-1910" width="50" height="81.97" as="geometry" />
+        </mxCell>
+        <mxCell id="3jeHmVnI2uejGoHNxeqR-9" value="" style="shape=mxgraph.cisco.misc.ios_slb;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="-1810" width="60" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="3jeHmVnI2uejGoHNxeqR-10" value="" style="shape=mxgraph.cisco.misc.ios_slb;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="-1810" width="60" height="27" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
